@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;Configure.properties&apos; to &apos;com.properties&apos;&#x0D;&#x0A;- Original project: &apos;Maven_Project&apos;&#x0D;&#x0A;- Original element: &apos;Maven_Project/src/main/java/Configure.properties&apos;&#x0D;&#x0A;- Renamed element: &apos;Maven_Project/src/main/java/com.properties&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;Configure.properties&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/main\/java&lt;Configure.properties" name="com.properties" qualified="false" references="true" stamp="1641737204743" textual="false" version="1.0"/>
+</session>

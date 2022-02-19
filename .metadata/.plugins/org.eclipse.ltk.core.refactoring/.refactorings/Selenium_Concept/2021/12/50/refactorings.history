@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.sele.ja.Revise&apos; to &apos;Project&apos;&#x0D;&#x0A;- Original project: &apos;Selenium_Concept&apos;&#x0D;&#x0A;- Original element: &apos;com.sele.ja.Revise&apos;&#x0D;&#x0A;- Renamed element: &apos;com.sele.ja.Project&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Revise&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.sele.ja{Revise.java[Revise" matchStrategy="1" name="Project" qualified="false" references="true" similarDeclarations="false" stamp="1639236531718" textual="false" version="1.0"/>
+</session>

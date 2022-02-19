@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Adactin.java&apos; to &apos;FebCucumber/src/test/java/com.testfeb.com.FebCucumber&apos;&#x0D;&#x0A;- Original project: &apos;Selenium_Concept&apos;&#x0D;&#x0A;- Destination element: &apos;FebCucumber/src/test/java/com.testfeb.com.FebCucumber&apos;&#x0D;&#x0A;- Original element: &apos;com.sele.ja.Adactin.java&apos;" description="Copy compilation unit" destination="=FebCucumber/src\/test\/java&lt;com.testfeb.com.FebCucumber" element1="/src&lt;com.sele.ja{Adactin.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1644493351022" units="1" version="1.0"/>
+</session>

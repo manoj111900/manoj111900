@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.util.concurrent.ConcurrentHashMap.KeySetView"/>
+<fullyQualifiedTypeName name="java.awt.List"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.By.ByXPath"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.lang.Thread"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.JavascriptExecutor"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.interactions.Actions"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="java.util.concurrent.TimeUnit"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.WebElement"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.TakesScreenshot"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.OutputType"/>
+<fullyQualifiedTypeName name="org.apache.commons.io.FileUtils"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.WebDriver"/>
+<fullyQualifiedTypeName name="com.Pom_Object.Payment_page"/>
+<fullyQualifiedTypeName name="com.Pom_Object.Payment_Page"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.support.PageFactory"/>
+<fullyQualifiedTypeName name="com.Pom_Object.Sign_In"/>
+<fullyQualifiedTypeName name="com.Pom_Object.Login_Page"/>
+<fullyQualifiedTypeName name="com.Project_Manager.Project_Object"/>
+<fullyQualifiedTypeName name="com.Pom_Object.T_Shirt"/>
+<fullyQualifiedTypeName name="com.Pom_Object.Shirt_Page"/>
+<fullyQualifiedTypeName name="com.Pom_Object.Add_Shirt"/>
+<fullyQualifiedTypeName name="com.Pom_Object.Check_Out"/>
+<fullyQualifiedTypeName name="com.Pom_Object.Address"/>
+<fullyQualifiedTypeName name="com.Pom_Object.Shipping"/>
+<fullyQualifiedTypeName name="com.Pom_Object.Payment"/>
+<fullyQualifiedTypeName name="java.io.File"/>
+<fullyQualifiedTypeName name="java.io.FileInputStream"/>
+<fullyQualifiedTypeName name="java.util.Properties"/>
+<fullyQualifiedTypeName name="com.connecting.Configure"/>
+<fullyQualifiedTypeName name="com.properties.File_Reader"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.support.ui.Select"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.By"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.support.FindBy"/>
+</qualifiedTypeNameHistroy>
